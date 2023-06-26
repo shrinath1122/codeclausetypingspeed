@@ -1,0 +1,6 @@
+Coding like poetry should be short and concise.
+It’s not a bug; it’s an undocumented feature.
+First, solve the problem. Then, write the code.
+Optimism is an occupational hazard of programming: feedback is the treatment.
+Clean code always looks like it was written by someone who cares.
+If opportunity doesn't knock, build a door.
